@@ -1,0 +1,121 @@
+{
+"name": "พรีเมียร์ลีก อังกฤษ",
+"author": "Boyd Kittipong",
+"image": "https://www.naewna.com/uploads/news/source/491912.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/holland_eredivisie",
+"stations": [
+{
+"name": "Premiere Football HD",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-1",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 1_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",
+"url": "https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 1_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",
+"url": "http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 1_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",
+"url": "https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 1_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",
+"url": "http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",
+"url": "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Premiere Football HD 2_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",
+"url": "http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 2_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",
+"url": "https://doofootball.livestream-cdn.com/iptv/epl-2.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 2_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",
+"url": "http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 3",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png",
+"url": "http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Premiere Football HD 3_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png",
+"url": "https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 3_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png",
+"url": "http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 4",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",
+"url": "http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Premiere Football HD 4_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",
+"url": "http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 4_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",
+"url": "https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 5",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png",
+"url": "http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Premiere Football HD 5_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png",
+"url": "http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 5_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png",
+"url": "https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+]
+}
