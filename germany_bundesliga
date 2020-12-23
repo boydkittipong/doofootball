@@ -1,0 +1,22 @@
+{
+"name": "บุนเดสลีก้า เยอรมัน",
+"author": "Boyd Kittipong",
+"image": "https://movietvtechgeeks.com/wp-content/uploads/2015/03/german-bundesliga-soccer-week-24-review-2015.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/Italian_serie_a",
+"stations": [
+{
+"name": "Nova sport",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1058.png",
+"url": "https://www.doofootball.com/live/streaming/novasport/611761",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "Sky bundesliga 1",
+"image": "https://sport-tv-guide.live/images/tv-station-sky-bundesliga-1-1804.png",
+"url": "https://edge-n7.worldwidetv.club/6MQ6xwIfW4XaVQi8fkVXYA/1608747353/live-o33-th-abr/de-skybundesliga/liveorigin/de-skybundesliga_480/chunks.m3u8",
+"playInNatPlayer": "tot"
+}, 
+
+
+]
+}
