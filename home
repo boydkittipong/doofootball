@@ -1,0 +1,61 @@
+{
+"name": "Doofootball",
+"author": "ฺฺBoyd_Kittipong",
+"image": "https://sv1.picz.in.th/images/2020/12/22/jp4OT1.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/boyd/main/dooball66",
+"groups": [
+
+{
+"name": "พรีเมียร์ลีก อังกฤษ",
+"image": "https://www.naewna.com/uploads/news/source/491912.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/turkey_super_lig",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "ลาลีก้า สเปน",
+"image": "https://www.innnews.co.th/wp-content/uploads/2020/05/%E0%B8%A5%E0%B8%B2%E0%B8%A5%E0%B8%B5%E0%B8%81%E0%B8%B2-1.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/turkey_super_lig",
+"playInNatPlayer": "tot"
+},
+{
+"name": "เซเรีย อา อิตาลี",
+"image": "https://www.innnews.co.th/wp-content/uploads/2020/03/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B9%82%E0%B8%8A%E0%B9%88.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/turkey_super_lig",
+"playInNatPlayer": "tot"
+},
+{
+"name": "บุนเดสลีก้า เยอรมัน",
+"image": "https://movietvtechgeeks.com/wp-content/uploads/2015/03/german-bundesliga-soccer-week-24-review-2015.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/turkey_super_lig",
+"playInNatPlayer": "tot"
+},
+{
+"name": "ลีกเอิง ฝรั่งเศส",
+"image": "https://media.culturepsg.com/image/news/ligue_1_uber_eats.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/turkey_super_lig",
+"playInNatPlayer": "tot"
+},
+{
+"name": "ซุปเปอร์ลีก ตุรกี",
+"image": "https://www.fifa89.com/wp-content/uploads/2018/08/Turkey-SuperLig.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/turkey_super_lig",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "เอเรอดิวิซี่ ฮอลแลนด์",
+"image": "https://sbobet.live/wp-content/uploads/2020/05/Eredivisie.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/holland_eredivisie",
+"playInNatPlayer": "tot"
+}, 
+
+
+
+
+
+
+
+
+
+
+]
+}
