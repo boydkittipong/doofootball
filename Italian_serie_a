@@ -1,0 +1,45 @@
+{
+"name": "เซเรีย อา อิตาลี",
+"author": "Boyd Kittipong",
+"image": "https://www.innnews.co.th/wp-content/uploads/2020/03/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B9%82%E0%B8%8A%E0%B9%88.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/turkey_super_lig",
+"stations": [
+{
+"name": "Beinsports 1 th",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
+"url": "https://www.doofootball.com/live/streaming/bein1/593230",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "Beinsports 2 th",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
+"url": "https://www.doofootball.com/live/streaming/bein2/593230",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "sporttv1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
+"url": "https://www.doofootball.com/live/streaming/sporttv1/593230",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "sporttv2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",
+"url": "https://www.doofootball.com/live/streaming/sporttv2/593230",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "sporttv3",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--452.png",
+"url": "https://www.doofootball.com/live/streaming/sporttv3/593230",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "sporttv4",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--453.png",
+"url": "https://www.doofootball.com/live/streaming/sporttv4/593230",
+"playInNatPlayer": "tot"
+}, 
+
+]
+}
