@@ -1,0 +1,21 @@
+{
+"name": "ซุปเปอร์ลีก ตุรกี",
+"author": "Boyd Kittipong",
+"image": "https://www.doofootball.com/uploads/selfimgs/leagueimg/20200921-075055-download%20(4).png",
+"url": "https://pastebin.com/1u4AXxgS",
+"stations": [
+{
+"name": "Beinsports 1 tu",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",
+"url": "https://www.doofootball.com/live/streaming/beinsports1tu/582222",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "Beinsports 1 tu",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--641.png",
+"url": "https://www.doofootball.com/live/streaming/beinsports2tu/582224",
+"playInNatPlayer": "tot"
+}, 
+
+]
+}
