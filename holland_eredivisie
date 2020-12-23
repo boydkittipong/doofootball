@@ -1,0 +1,27 @@
+{
+"name": "เอเรอดิวิซี่ ฮอลแลนด์",
+"author": "Boyd Kittipong",
+"image": "https://www.doofootball.com/uploads/selfimgs/leagueimg/20200921-075055-download%20(4).png",
+"url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/turkey_super_lig",
+"stations": [
+{
+"name": "fox sport1 nl",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--241.png",
+"url": "https://www.doofootball.com/live/streaming/foxsport1nl/581510",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "fox sport2 nl",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--242.png",
+"url": "https://www.doofootball.com/live/streaming/foxsport2nl/581511",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "fox sport3 nl",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--243.png",
+"url": "https://www.doofootball.com/live/streaming/foxsport3nl/581512",
+"playInNatPlayer": "tot"
+}, 
+
+]
+}
