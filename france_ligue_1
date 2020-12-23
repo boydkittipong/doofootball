@@ -1,0 +1,29 @@
+{
+"name": "ลีกเอิง ฝรั่งเศส",
+"author": "Boyd Kittipong",
+"image": "https://media.culturepsg.com/image/news/ligue_1_uber_eats.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/Italian_serie_a",
+"stations": [
+{
+"name": "BTsport1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--97.png",
+"url": "https://www.doofootball.com/live/streaming/btsport1/591808",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "BTsport2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--100.png",
+"url": "https://www.doofootball.com/live/streaming/btsport2/591808",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "BTsport3",
+"image": "https://i.pinimg.com/originals/eb/4b/44/eb4b445a78332488b58dc8f13dc8b252.png",
+"url": "https://www.doofootball.com/live/streaming/btsport3/591808",
+"playInNatPlayer": "tot"
+}, 
+
+
+
+]
+}
