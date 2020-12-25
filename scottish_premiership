@@ -1,0 +1,27 @@
+{
+"name": "สกอตติชพรีเมียร์ชิป",
+"author": "ฺฺBoyd_Kittipong",
+"image": "https://ballstation.net/img/cover/1587097578Scotland-%E0%B8%A5%E0%B8%B5%E0%B8%81.jpg",
+"url": "",
+"stations": [
+{
+"name": "Sport1plus",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--149.png",
+"url": "https://www.doonung1234.com/match/view/8863/sport1plus",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Arenasport1serbia",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--319.png",
+"url": "https://www.doonung1234.com/match/view/8863/arenasport1serbia",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Skysportfootball",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--91.png",
+"url": "https://www.doonung1234.com/match/view/8863/skysportfootball",
+"playInNatPlayer": "tot"
+},
+
+]
+}
