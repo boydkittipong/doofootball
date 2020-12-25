@@ -1,0 +1,16 @@
+{
+"name": "พรีไมราลีกา โปรตุเกส",
+"author": "ฺฺBoyd_Kittipong",
+"image": "https://worldsoccertalk.com/wp-content/uploads/2020/06/Where-to-watch-Primeira-Liga-on-US-TV.jpg",
+"url": "",
+"stations": [
+
+{
+"name": "sporttv1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
+"url": "https://www.doofootball.com/live/streaming/sporttv1/593230",
+"playInNatPlayer": "tot"
+}, 
+
+]
+}
