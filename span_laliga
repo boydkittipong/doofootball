@@ -4,10 +4,31 @@
 "image": "https://www.innnews.co.th/wp-content/uploads/2020/05/%E0%B8%A5%E0%B8%B2%E0%B8%A5%E0%B8%B5%E0%B8%81%E0%B8%B2-1.jpg",
 "url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/span_laliga",
 "stations": [
+
 {
-"name": "Laliga-tv1",
-"image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Laliga_TV_logo.jpg",
-"url": "http://freestreams-live1.com/laliga-tv1/",
+"name": "Bein Sports 1 TH",
+"image": "https://ballherehere.com/wp-content/uploads/2019/08/g2p4ejvka9wkscc400.png",
+"url": "https://www.we-play.tv/watching/tv/bein-sports-1",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 2 TH",  
+"image": "https://ballherehere.com/wp-content/uploads/2019/08/bein-sports-2-1.png",  
+"url": "https://www.we-play.tv/watching/tv/bein-sports-2",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cmorefootball",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--482.png",
+"url": "https://www.doonung1234.com/match/view/8925/cmorefootball",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "Ziggosportselect",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",
+"url": "https://www.doonung1234.com/match/view/8932/ziggosportselect",
 "playInNatPlayer": "tot"
 }, 
 
