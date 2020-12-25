@@ -11,9 +11,21 @@
 "playInNatPlayer": "tot"
 }, 
 {
-"name": "Beinsports 1 tu",
+"name": "Beinsports 2 tu",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--641.png",
 "url": "https://www.doofootball.com/live/streaming/beinsports2tu/582224",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "Beinsports 1 tu สำรอง",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",
+"url": "https://www.doonung1234.com/match/view/8912/beinsports1tu",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "Beinsports 2 tu สำรอง",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--641.png",
+"url": "https://www.doonung1234.com/match/view/8893/beinsports2tu",
 "playInNatPlayer": "tot"
 }, 
 {
