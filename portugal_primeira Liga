@@ -11,6 +11,13 @@
 "url": "https://www.doofootball.com/live/streaming/sporttv1/593230",
 "playInNatPlayer": "tot"
 }, 
+{
+"name": "sporttv1 สำรอง",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
+"url": "https://ball8k.com/m/ch.php?stream=sporttv1",
+"playInNatPlayer": "tot"
+}, 
+
 
 ]
 }
