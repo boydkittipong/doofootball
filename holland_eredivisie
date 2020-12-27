@@ -28,6 +28,30 @@
 "url": "https://www.doofootball.com/live/streaming/foxsport4nl/581512",
 "playInNatPlayer": "tot"
 }, 
+{
+"name": "fox sport1 nl สำรอง",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--241.png",
+"url": "https://ball8k.com/m/ch.php?stream=foxsport1nl",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "fox sport2 nl สำรอง",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--242.png",
+"url": "https://ball8k.com/m/ch.php?stream=foxsport2nl",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "fox sport3 nl สำรอง",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--243.png",
+"url": "https://ball8k.com/m/ch.php?stream=foxsport3",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "fox sport4 nl สำรอง",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--244.png",
+"url": "https://ball8k.com/m/ch.php?stream=foxsport4nl",
+"playInNatPlayer": "tot"
+}, 
 
 
 ]
