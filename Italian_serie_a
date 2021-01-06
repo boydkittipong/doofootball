@@ -5,6 +5,12 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/Italian_serie_a",
 "stations": [
 {
+"name": "Rai Italia",
+"image": "https://condista.com/wp-content/uploads/2018/08/Rai-Italia.jpg",
+"url": "https://wigilive.com/embed.php?id=live10",
+"playInNatPlayer": "tot"
+},
+{
 "name": "Sky sport serie a",
 "image": "https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fitalie%2Fsky+sport+serie+a+hd.gif",
 "url": "https://wigilive.com/embed.php?id=live11",
