@@ -6,6 +6,12 @@
 "stations": [
 
 {
+"name": "Canal 11 Portugal",
+"image": "https://sport-tv-guide.live/images/stations/a1787.png",
+"url": "http://freestreams-live1.com/canal-11-portugal/",
+"playInNatPlayer": "tot"
+}, 
+{
 "name": "sporttv1",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
 "url": "https://www.doofootball.com/live/streaming/sporttv1/593230",
