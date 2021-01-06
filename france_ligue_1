@@ -5,6 +5,18 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/france_ligue_1",
 "stations": [
 {
+"name": "Telefoot 1",
+"image": "https://assets-fr.imgfoot.com/media/cache/640xauto/telefoot-stadium-5f3ff8321de8a.png",
+"url": "https://wigilive.com/embed.php?id=live25",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "Telefoot 2",
+"image": "https://assets-fr.imgfoot.com/telefoot-stadium-2-5f3ff890c0281.png",
+"url": "https://wigilive.com/embed.php?id=live26",
+"playInNatPlayer": "tot"
+}, 
+{
 "name": "BTsport1",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--97.png",
 "url": "https://ball8k.com/m/ch.php?stream=btsport1",
