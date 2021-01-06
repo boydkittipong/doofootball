@@ -6,6 +6,12 @@
 "stations": [
 
 {
+"name": "LigaTV Bar",
+"image": "https://laligatvbar.es/meta-image.jpg",
+"url": "https://wigilive.com/embed.php?id=live1",
+"playInNatPlayer": "tot"
+}, 
+{
 "name": "Bein Sports 1 TH",
 "image": "https://ballherehere.com/wp-content/uploads/2019/08/g2p4ejvka9wkscc400.png",
 "url": "https://www.we-play.tv/watching/tv/bein-sports-1",
