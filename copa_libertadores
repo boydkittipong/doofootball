@@ -1,0 +1,21 @@
+{
+"name": "โกปาลิเบร์ตาโดเรส (Copa Libertadores)",
+"author": "Boyd Kittipong",
+"image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032016/untitled-1_89.png?itok=uR7uWOw3",
+"url": "https://raw.githubusercontent.com/boydkittipong/doofootball/main/Italian_serie_a",
+"stations": [
+{
+"name": "beIN SPORTS Ñ",
+"image": "https://sport-tv-guide.live/images/stations/a85.png",
+"url": "https://wigilive.com/embed.php?id=live4",
+"playInNatPlayer": "tot"
+},
+{
+"name": "beIN USA",
+"image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg",
+"url": "https://wigilive.com/embed.php?id=live3",
+"playInNatPlayer": "tot"
+},
+
+]
+}
